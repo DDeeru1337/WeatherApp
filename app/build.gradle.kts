@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-    implementation("android.arch.navigation:navigation-fragment-ktx:1.0.0")
+    implementation("androidx.fragment:fragment-ktx:1.6.2")
     implementation("com.google.android.gms:play-services-location:21.0.1")
     implementation("com.android.volley:volley:1.2.1")
     implementation("com.squareup.picasso:picasso:2.8")
